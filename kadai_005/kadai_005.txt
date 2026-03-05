@@ -1,0 +1,23 @@
+PS E:\サムライエンジニア用\課題提出用> cd git_challenge
+PS E:\サムライエンジニア用\課題提出用\git_challenge> 
+PS E:\サムライエンジニア用\課題提出用\git_challenge> git init
+Initialized empty Git repository in E:/サムライエンジニア用/課題提出用/git_challenge/.git/
+PS E:\サムライエンジニア用\課題提出用\git_challenge> 
+PS E:\サムライエンジニア用\課題提出用\git_challenge> 
+PS E:\サムライエンジニア用\課題提出用\git_challenge> git add hello_world.txt
+PS E:\サムライエンジニア用\課題提出用\git_challenge> 
+PS E:\サムライエンジニア用\課題提出用\git_challenge> 
+PS E:\サムライエンジニア用\課題提出用\git_challenge> git commit -m "1回目のコミット"
+[main (root-commit) cccf09e] 1回目のコミット
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello_world.txt
+PS E:\サムライエンジニア用\課題提出用\git_challenge> 
+PS E:\サムライエンジニア用\課題提出用\git_challenge>
+PS E:\サムライエンジニア用\課題提出用\git_challenge> git add hello_world.txt       
+PS E:\サムライエンジニア用\課題提出用\git_challenge> 
+PS E:\サムライエンジニア用\課題提出用\git_challenge>
+PS E:\サムライエンジニア用\課題提出用\git_challenge> git commit -m "日本語訳を追記"
+                                                                                  [main e79d150] 日本語訳を追記
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+PS E:\サムライエンジニア用\課題提出用\git_challenge>
+PS E:\サムライエンジニア用\課題提出用\git_challenge>
